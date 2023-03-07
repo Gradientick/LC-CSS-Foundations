@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph {
+    font-weight: 900;
+}
+
+.small {
+    font-size:smaller
+}
+
+.confirm {
+    color: white;
+    background-color: #168b43;
+    border: 1px solid black;
+}
+
+.cancel {
+    color: black;
+    background-color: ##ffffff;
+    border: 1px solid black;
+}
+
+.bold {
+    font-size: smaller;
+    font-weight: bold;
+}
